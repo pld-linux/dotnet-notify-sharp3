@@ -2,7 +2,7 @@ Summary:	C# client implementation for Desktop Notifications
 Summary(pl.UTF-8):	Implementacja C# klienta usługi Desktop Notifications
 Name:		dotnet-notify-sharp3
 Version:	3.0.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	https://www.meebey.net/projects/notify-sharp/downloads/notify-sharp-%{version}.tar.gz
